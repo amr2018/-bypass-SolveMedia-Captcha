@@ -1,10 +1,13 @@
 
 """
-This is a simple script to bypass the captcha
-------------
-if you have any error with this script
-you can ask ai about it 
-https://chat.lmsys.org/
+This is a simple script to  bypass SolveMedia Captcha
+------------------------------------------------------------------------------------------------------
+install 2captcha lib : https://pypi.org/project/2captcha-python/
+------------------------------------------------------------------------------
+# key from your 2captha account create account from here : https://bit.ly/3MkkuPJ
+# You need to make a deposit at least $2
+# select "Developer" as account type
+# copy your api key from your account
 """
 
 from twocaptcha import TwoCaptcha
